@@ -15,6 +15,7 @@ Play HLS and DASH Videos with a length of up to **60 seconds** inside your Unity
 
 🌎 [Website](https://hisplayer.com/)
 
+<br>
 
 **Supported Platforms:**
 
