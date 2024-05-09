@@ -18,7 +18,7 @@ Play HLS and DASH Videos with a length of up to **60 seconds** inside your Unity
 
 **Supported Platforms:**
 
-* Android, iOS, WebGL, Windows, MacOS
+* Android, iOS, WebGL
 
 **Supported Editors:** 
 
