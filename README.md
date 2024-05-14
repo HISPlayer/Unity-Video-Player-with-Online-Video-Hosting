@@ -19,7 +19,7 @@ Play HLS and DASH Videos with a length of up to **60 seconds** inside your Unity
 
 ## [BUY NOW](https://assetstore.unity.com/preview/281535/922207)
 
-This Unity Video Player for Short Videos **(60 seconds)**, can be purchased [at the Unity Asset Store](https://assetstore.unity.com/packages/tools/video/video-streaming-player-for-short-videos-262766#description)
+Our Unity Video Player for Short Videos **(60 seconds)**, can be purchased [at the Unity Asset Store](https://assetstore.unity.com/packages/tools/video/video-streaming-player-for-short-videos-262766#description)
 
 
 <br>
