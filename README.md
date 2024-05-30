@@ -18,7 +18,7 @@ Play HLS and DASH Videos with a length of up to **60 seconds** inside your Unity
 <br>
 
 ##  [NEW!](https://hisplayer.github.io/UnityVideoUpload/#/README)
-> **[HISPlayer Video Upload / Hosting](https://hisplayer.github.io/UnityVideoUpload/#/README)** is a new feature of our Unity Video Player SDK that allows you to upload local video files to a server and transcode them into HLS and DASH streaming formats directly from our Unity SDK. Need to convert file-based content into HLS and DASH streaming for multi-screen delivery at scale, please contact us here: [contact@hisplayer.com](mailto:contact@hisplayer.com)
+> **[HISPlayer Video Upload / Hosting](https://hisplayer.github.io/UnityVideoUpload/#/README)** is a new feature of our Unity Video Player SDK that allows you to upload local video files to a server and transcode them into HLS and DASH streaming URLs directly from our Unity SDK. Need to convert file-based content into HLS and DASH streaming for multi-screen delivery at scale, please contact us here: [contact@hisplayer.com](mailto:contact@hisplayer.com)
 > 
 > We can help you with the full **end-to-end** delivery and playback.
 
