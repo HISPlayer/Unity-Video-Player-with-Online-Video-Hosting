@@ -1,4 +1,4 @@
-<h1 style="line-height:2;"><p align="center"><a href="https://github.com/HISPlayer/Unity-Video-Streaming-Player-for-Short-Videos/releases/tag/v3.4.1" target="_blank"><img src="https://github.com/HisPlayer/Unity-Video-Streaming-Player-for-Short-Videos/blob/main/Github1.png"  width="100%" height="100%"></a>
+<h1 style="line-height:2;"><p align="center"><a href="https://github.com/HISPlayer/Unity-Video-Streaming-Player-for-Short-Videos/releases/tag/v4.2.2" target="_blank"><img src="https://github.com/HisPlayer/Unity-Video-Streaming-Player-for-Short-Videos/blob/main/Github1.png"  width="100%" height="100%"></a>
 
 </p></h1>
 
