@@ -7,7 +7,7 @@
 
 Play HLS and DASH Videos with a length of up to **60 seconds** inside your Unity Games and Apps. No matter if your videos are local, VOD, or Live Streaming, our SDK will play them across all platforms with the best video quality and the most advanced features
 
-## [TRY FREE DEMO HERE](https://github.com/HISPlayer/Unity-Video-Streaming-Player-for-Short-Videos/releases/tag/v3.4.1)
+## [TRY FREE DEMO HERE](https://github.com/HISPlayer/Unity-Video-Streaming-Player-for-Short-Videos/releases/tag/v4.2.2)
 
 <br>
 
