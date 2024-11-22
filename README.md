@@ -2,19 +2,19 @@
 
 </p></h1>
 
-## Unity Video Player with Video Hosting
+## Unity Video Player with Online Video Hosting
 
 
 Play HLS and DASH Videos inside your Unity Games and Apps. No matter if your videos are local, VOD Streaming, our SDK will play them across all platforms with the best video quality and the most advanced features
 
-The HISPlayer Unity package allows game developers to publish and view streams from the [HISPlayer service](https://hisplayer.github.io/UnityVideoUpload/#/README) within their Unity games. For example, users can publish scenes captured from their in-game cameras, as well as audio sources, for other viewers to subscribe to, as well as rendering video and audio streams incoming from the service onto textures and audio sources.
+The HISPlayer Unity package allows game developers to publish and play video streams from the [HISPlayer server](https://hisplayer.github.io/UnityVideoUpload/#/README) into their Unity games. It also fits perfectly for the users that want to publish scenes captured from their in-game cameras, as well as audio sources, for other viewers to subscribe to, as well as rendering video and audio streams incoming from the service onto textures and audio sources.
 
 
-## [TRY FREE DEMO HERE](https://github.com/HISPlayer/Unity-Video-Streaming-Player-for-Short-Videos/releases/tag/v4.2.2)
+## [Start your FREE trial account here](https://dashboard.hisplayer.com/signup)
 
 <br>
 
-🔊 [Support](https://github.com/HISPlayer/Unity-Video-Streaming-Player-for-Short-Videos/issues)
+🔊 [Support](https://github.com/HISPlayer/Unity-Video-Player-with-Online-Video-Hosting/issues)
 
 🌎 [Website](https://hisplayer.com/)
 
@@ -30,10 +30,6 @@ The HISPlayer Unity package allows game developers to publish and view streams f
 > We can help you with the full **end-to-end** delivery and playback.
 
 <br>
-
-## [BUY NOW](https://assetstore.unity.com/packages/slug/262766)
-
-Our Unity Video Player for Short Videos **(60 seconds)**, can be purchased [at the Unity Asset Store](https://assetstore.unity.com/packages/tools/video/video-streaming-player-for-short-videos-262766#description)
 
 
 <br>
