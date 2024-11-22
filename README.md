@@ -5,7 +5,7 @@
 ## Unity Video Player with Video Hosting
 
 
-Play HLS and DASH Videos inside your Unity Games and Apps. No matter if your videos are local, VOD, or Live Streaming, our SDK will play them across all platforms with the best video quality and the most advanced features
+Play HLS and DASH Videos inside your Unity Games and Apps. No matter if your videos are local, VOD Streaming, our SDK will play them across all platforms with the best video quality and the most advanced features
 
 The HISPlayer Unity package allows game developers to publish and view streams from the [HISPlayer service](https://hisplayer.github.io/UnityVideoUpload/#/README) within their Unity games. For example, users can publish scenes captured from their in-game cameras, as well as audio sources, for other viewers to subscribe to, as well as rendering video and audio streams incoming from the service onto textures and audio sources.
 
