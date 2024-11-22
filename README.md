@@ -35,4 +35,4 @@ The HISPlayer Unity package allows game developers to publish and play video str
 <br>
 
 > [!NOTE]
-> ***If you need to play longer videos, support additional platforms or require any other features, please [contact us here.](https://hisplayer.com/contact-unity/)***
+> ***If you need support or require any specific features, please [contact us here.](https://hisplayer.com/contact-unity/)***
