@@ -1,11 +1,11 @@
-<h1 style="line-height:2;"><p align="center"><a href="https://github.com/HISPlayer/Unity-Video-Streaming-Player-for-Short-Videos/releases/tag/v4.2.2" target="_blank"><img src="https://github.com/HisPlayer/Unity-Video-Streaming-Player-for-Short-Videos/blob/main/Github1.png"  width="100%" height="100%"></a>
+<h1 style="line-height:2;"><p align="center"><a href="https://dashboard.hisplayer.com/signup" target="_blank"><img src="https://github.com/HisPlayer/Unity-Video-Streaming-Player-for-Short-Videos/blob/main/Github1.png"  width="100%" height="100%"></a>
 
 </p></h1>
 
-## Unity Video Streaming Player for Short Videos with Video Hosting
+## Unity Video Player with Video Hosting
 
 
-Play HLS and DASH Videos with a length of up to **60 seconds** inside your Unity Games and Apps. No matter if your videos are local, VOD, or Live Streaming, our SDK will play them across all platforms with the best video quality and the most advanced features
+Play HLS and DASH Videos inside your Unity Games and Apps. No matter if your videos are local, VOD, or Live Streaming, our SDK will play them across all platforms with the best video quality and the most advanced features
 
 The HISPlayer Unity package allows game developers to publish and view streams from the [HISPlayer service](https://hisplayer.github.io/UnityVideoUpload/#/README) within their Unity games. For example, users can publish scenes captured from their in-game cameras, as well as audio sources, for other viewers to subscribe to, as well as rendering video and audio streams incoming from the service onto textures and audio sources.
 
