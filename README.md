@@ -1,4 +1,4 @@
-<h1 style="line-height:2;"><p align="center"><a href="https://dashboard.hisplayer.com/signup" target="_blank"><img src="https://github.com/HisPlayer/Unity-Video-Streaming-Player-for-Short-Videos/blob/main/Github1.png"  width="100%" height="100%"></a>
+<h1 style="line-height:2;"><p align="center"><a href="https://dashboard.hisplayer.com/signup" target="_blank"><img src="https://github.com/HisPlayer/Unity-Video-Streaming-Player-for-Short-Videos/blob/main/UnityGithub.png"  width="100%" height="100%"></a>
 
 </p></h1>
 
