@@ -7,7 +7,7 @@
 
 **HISPlayer Online Video Hosting** is a new feature of our **Unity Video Player SDK**. It allows you to upload local video files to your [HISPlayer account](https://dashboard.hisplayer.com/signup) and turn them into HLS and DASH streaming URLs. Using our Unity Video Player, you can play all these video URLs inside your Unity apps on Android, iOS, Windows, MacOS, and WebGL platforms. 
 
-### [Start your FREE trial account here](https://dashboard.hisplayer.com/signup)
+### [Start for FREE](https://dashboard.hisplayer.com/signup)
 
 <br>
 
